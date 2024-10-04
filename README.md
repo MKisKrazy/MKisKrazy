@@ -28,7 +28,7 @@ Final Year CSE Student
 
 [![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MKiskrazy&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-##Badges
+## Badges
 
 [![An image of @mkiskrazy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mkiskrazy)](https://holopin.io/@mkiskrazy)
 
