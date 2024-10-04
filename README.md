@@ -23,7 +23,9 @@ Final Year CSE Student
 ### 💻 Workspace Spec
  <img height="30" src="https://img.shields.io/badge/RADEON-RX560X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_3350H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKiskrazy&theme=tokyonight&show_icons=true&&hide=issues,contribs)
+ ## GitHub Stats
+
+ ![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKisKrazy&theme=tokyonight&show_icons=true&&hide=issues,contribs) 
 
 
 [![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MKiskrazy&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -31,6 +33,8 @@ Final Year CSE Student
 ## Badges
 
 [![An image of @mkiskrazy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mkiskrazy)](https://holopin.io/@mkiskrazy)
+
+
 
 <!---
 MKisKrazy/MKisKrazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
