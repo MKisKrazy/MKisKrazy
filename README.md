@@ -27,6 +27,8 @@ Final Year CSE Student
 
 
 [![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MKiskrazy&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![An image of @mkiskrazy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mkiskrazy)](https://holopin.io/@mkiskrazy)
 <!---
 MKisKrazy/MKisKrazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
