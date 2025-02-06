@@ -2,7 +2,7 @@
 
 Final Year CSE Student 
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47gy6x801u2qzckuyui833ae7f1xvobm7k54lnalkk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 Here's my [portfolio](https://mkiskrazy.github.io/Portfolio/)                                                 
+- 🔭 Here's my [portfolio](https://www.maheshkrishna.live)                                                 
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m staring my DSA journey soon
 - 🤔 I’m looking for help with Placements and Internships
